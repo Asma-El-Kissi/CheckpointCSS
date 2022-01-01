@@ -1,0 +1,60 @@
+body {
+  background-color: #dde9ec;
+  margin: 20;
+  padding: 20;
+}
+
+nav {
+  padding: 20px 20px;
+  background: rgb(221, 211, 230);
+  color: rgb(67, 5, 75);
+  border: 1px solid rgb(201, 45, 180);
+  font: 1em roboto;
+  line-height: 1em;
+  text-align: center;
+  text-decoration: blueviolet;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+h1 {
+  font-family: roboto;
+  font-style: italic;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: roboto;
+  font-style: italic;
+  font-size: 25;
+  color: rgb(105, 19, 94)
+}
+
+footer {
+  font-family: roboto;
+  font-size: small;
+  position: absolute;
+  left: 0;
+  bottom: 10;
+
+}
+
+.image {
+  float: left;
+  margin-top: -10;
+  margin-left: -22;
+  border-radius: 50%;
+}
+
+.justifier {
+  font-family: roboto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.image2 {
+  float: right;
+  margin: -20 900 0 0;
+}
